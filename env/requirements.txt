@@ -8,4 +8,3 @@ langchain_google_genai
 langgraph
 youtube-search-python
 youtube-search
-langchain_grok_genai
